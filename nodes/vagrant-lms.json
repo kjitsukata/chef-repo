@@ -1,0 +1,6 @@
+{
+    "run_list":[
+        "recipe[rbenv-ruby::default]",
+        "recipe[rbenv-ruby::rbenv]"
+    ]
+}
